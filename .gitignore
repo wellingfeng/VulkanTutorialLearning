@@ -1,0 +1,8 @@
+*.exe
+*.pdb
+*.obj
+*.tlog
+*.log
+*.opendb
+*.db
+**/.vs/**
